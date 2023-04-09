@@ -1,5 +1,16 @@
 David Deutsch's QIPC/HP sponsored short course "Lectures on Quantum Computation" transcribed w/ images in 2020 to PDF (work done by Ben Webb and Adrian German).
 
+PDF taken from https://legacy.cs.indiana.edu/~dgerman/2020/boot-camp/loqcdd.pdf
+
+---
+
+Video Lectures:
+
+The Lectures are available on line at http://www.quiprocone.org/Protected/DD_lectures.htm
+
+You can also view them hosted at YouTube (much easier given filetype of above site).
+Hosted by the channel Lux æterna: https://www.youtube.com/playlist?list=PLqdVnC7OWuEcfKRZXsrooK_EPzwmWSi-N
+
 David Deutsch, one of the world’s preeminent  quantum theorists, created a video introduction to the field of quantum computation.
 
 The introduction is divided into six lectures: 
@@ -10,18 +21,10 @@ The introduction is divided into six lectures:
 5. A Quantum Algorithm  46:00
 6. Grover’s Search Algorithm  41:05
 
-
 These lectures have a dual-use philosophy. They are designed to be an introduction to the quantum theory of computation for (say) graduate students intending to do research in the field.
 
 Simultaneously, they are an introduction to quantum theory itself for (say) undergraduate physics students.
 
----
-
-**Video Lectures**:
-
-PDF grabbed from https://legacy.cs.indiana.edu/~dgerman/2020/boot-camp/loqcdd.pdf
-
-The Lectures are available on line at http://www.quiprocone.org/Protected/DD_lectures.htm or you can view them hosted at YouTube at https://www.youtube.com/playlist?list=PLqdVnC7OWuEcfKRZXsrooK_EPzwmWSi-N
 
 ---
 
