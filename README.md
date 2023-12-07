@@ -4,8 +4,8 @@ pdf published at A. German's domain at legacy.cs.indiana.edu.
 
 In addition to the transcript, I collected some of the "worked example" documents from the Quiprocone site.
 
-**CONTENTS**:
-- README
+**CONTENTS**
+- README.md
 - Worked Examples 3.pdf
 - Worked_Examples1.pdf
 - Worked_Examples2.pdf
@@ -38,13 +38,8 @@ The introduction is divided into six lectures:
 5. A Quantum Algorithm  46:00
 6. Grover’s Search Algorithm  41:05
 
-These lectures have a dual-use philosophy. They are designed to be an introduction to the quantum theory of computation for (say) graduate students intending to do research in the field.
-
-Simultaneously, they are an introduction to quantum theory itself for (say) undergraduate physics students.
-
-
----
-
-
+These lectures have a dual-use philosophy. They are designed to be an introduction to the quantum theory of computation
+for (say) graduate students intending to do research in the field. Simultaneously, they are an introduction to quantum
+theory itself for (say) undergraduate physics students.
 
 The content of the lectures is under copyright. See page no. 1 of the transcription for copyright info of transcript with re. to the actual lectures.
